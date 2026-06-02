@@ -74,7 +74,9 @@ Implementasi dan kustomisasi sistem autentikasi menggunakan Laravel 12 dan Larav
     php artisan serve
     ```
 
-11. Akses halaman aplikasi pada browser dengan link berikut: http://127.0.0.1:8000
+11. Akses halaman aplikasi pada browser dengan link berikut: http://127.0.0.1:8000  
+
+
 
 ### Panduan Pengujian
 
@@ -99,7 +101,7 @@ Untuk mempermudah proses pengujian, akun admin telah disediakan melalui Seeder.
 ---
 
 
-Author
-Nama: Ibrahim Mousa Dhani
-NIM: 2411532010
+Author  
+Nama: Ibrahim Mousa Dhani  
+NIM: 2411532010  
 Mata Kuliah: Pemrograman Web
