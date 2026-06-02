@@ -23,7 +23,7 @@ Implementasi dan kustomisasi sistem autentikasi menggunakan Laravel 12 dan Larav
     ```bash
     git clone https://github.com/Lordyblade/tugasPweb-authBreeze.git
     ```
-    
+
 3. Masuk ke folder Project
     ```bash
     cd tugasPweb-authBreeze
@@ -87,9 +87,9 @@ Implementasi dan kustomisasi sistem autentikasi menggunakan Laravel 12 dan Larav
 6. Logout.
 
 ### Test Role Admin/Administrator
-Untuk mempermudah proses pengujian, akun admin telah disediakan melalui Seeder.
-**Email   : admin@gmail.com**
-**Password: admin123**
+Untuk mempermudah proses pengujian, akun admin telah disediakan melalui Seeder.  
+**Email   : admin@gmail.com**  
+**Password: admin123**  
 1. Buka http://127.0.0.1:8000/login.
 2. Masukkan Email dan Pasword yang sudah disediakan
 3. Setelah berhasil masuk ke Dashboard, terdapat menu baru pada bagian Navbar/navigasi yaitu 'Admin'. Merupakan Halaman Admin yang berfungsi    untuk menampilkan daftar semua user yang telah terdaftar di database.
