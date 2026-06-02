@@ -20,10 +20,14 @@ Implementasi dan kustomisasi sistem autentikasi menggunakan Laravel 12 dan Larav
     https://github.com/Lordyblade/tugasPweb-authBreeze.git
 
 2. Buka terminal dan jalankan perintah berikut:
+    ```bash
     git clone https://github.com/Lordyblade/tugasPweb-authBreeze.git
-
+    ```
+    
 3. Masuk ke folder Project
+    ```bash
     cd tugasPweb-authBreeze
+    ```
 
 4. Install Dependency:
     ```bash
