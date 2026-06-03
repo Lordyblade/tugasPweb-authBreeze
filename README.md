@@ -47,7 +47,7 @@ Implementasi dan kustomisasi sistem autentikasi menggunakan Laravel 12 dan Larav
     php artisan key:generate
     ```
 
-7. Konfigurasi Database
+7. Konfigurasi Database  
     Buat database pada phpMyAdmin
     dengan nama: **auth_demo**
 
