@@ -49,15 +49,17 @@ Implementasi dan kustomisasi sistem autentikasi menggunakan Laravel 12 dan Larav
 
 7. Konfigurasi Database
     Buat database pada phpMyAdmin
-    Contoh: auth_demo
+    dengan nama: **auth_demo**
 
     Sesuaikan file .env menjadi seperti berikut:
+    ```bash
     DB_CONNECTION=mysql
     DB_HOST=127.0.0.1
     DB_PORT=3306
     DB_DATABASE=auth_demo
     DB_USERNAME=root
     DB_PASSWORD=
+    ```
 
 9. Jalankan Migration dan Seeder dengan perintah berikut:
     ```bash
